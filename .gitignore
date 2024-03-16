@@ -1,0 +1,11 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# NodeJS
+node_modules
+_gh_pages
+
+# Other
+bin/
